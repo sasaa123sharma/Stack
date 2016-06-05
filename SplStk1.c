@@ -1,4 +1,4 @@
-//Implemenet special stack which gives min in O(1) time and sing O(1) space
+//Implemenet special stack which gives min in O(1) time and using O(1) space
 //
 //
 //Idea is take en extra variable min and keep updating the min value at particukar moment
